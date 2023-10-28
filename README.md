@@ -1,2 +1,2 @@
 # C-Misc-Codes
-About A repository for my miscellaneous C++ projects or files.
+Hi, This is my repository for my C codes. I will mostly upload or push anything I code.
